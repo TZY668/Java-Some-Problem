@@ -1,0 +1,7 @@
+1、Testif是第一个作业，判断2010是否是闰年
+2 、Four是第二个作业，输入一个4位整数
+3、GreekAlphabet是第三个作业，希腊
+4、ChickenProblem是第四个作业，小鸡问题
+5、Soda是苏打水问题
+6、week是星期问题
+7、mult99是九九乘法表的实现
